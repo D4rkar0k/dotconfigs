@@ -38,4 +38,4 @@ Mis archivos de configuracion. No tiene mas vuelta.
 * [gruvbox](https://github.com/morhetz/gruvbox)
 * [base16](https://github.com/morhetz/gruvbox)
 * Void Colors (OC)
-![](voidcolors.jpg)
+![void](voidcolors.jpg)
