@@ -39,4 +39,4 @@ Mis archivos de configuracion. No tiene mas vuelta.
 * [base16](https://github.com/morhetz/gruvbox)
 * Void Colors (OC)
 
-![void](https://github.com/D4rkar0k/dotconfigs/blob/main/voidcolors.png)
+   ![void](https://github.com/D4rkar0k/dotconfigs/blob/main/voidcolors.png)
