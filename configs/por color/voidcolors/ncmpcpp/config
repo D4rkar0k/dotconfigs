@@ -1,0 +1,40 @@
+mpd_host = 127.0.0.1
+mpd_port = 6601
+mpd_music_dir = /home/d4rk/mus
+
+[header]
+header_visibility 		= "no"
+header_window_color 		= "default"
+volume_color 			= "green"
+state_line_color 		= "black"
+
+[playlist]
+playlist_display_mode 		= "classic"
+# song_list_format 		= "$5%t $R$6%A"
+song_list_format 		= "$2%n $5%t $0|$6 %A $R $4%b $0:$3 %l" 
+browser_playlist_prefix 	= "$1»$1 "
+
+#current_item_prefix		= ">"
+#current_item_suffix		= "<"
+
+now_playing_prefix		= ">"
+#now_playing_suffix		= "<"
+
+[statusbar]
+progressbar_look 		= "━━━"
+progressbar_color 		= "black"
+statusbar_visibility 		= "yes"
+progressbar_elapsed_color 	= "cyan"
+statusbar_color 		= "3"
+song_status_format 		= "{%t - %A}"
+#display_bitrate 		= yes
+
+[library]
+song_library_format 		= "{{%a | %t}|{%f}}{$R%l}"
+empty_tag_color 		= "black"
+
+[global]
+main_window_color 		= "default"
+centered_cursor 		= "yes"
+enable_window_title 		= "yes"
+external_editor 		= "vim"

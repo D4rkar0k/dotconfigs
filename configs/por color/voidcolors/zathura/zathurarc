@@ -1,0 +1,23 @@
+set default-bg \#101010
+set default-fg \#B0BCAF
+
+set font "Terminus 12"
+
+set highlight-color \#DAAF58
+set highlight-active-color \#EDD7AB
+
+set inputbar-bg \#101010
+set inputbar-fg \#B0BCAF
+
+set notification-bg \#4D4D4D
+set notification-fg \#B0BCAF
+
+set statusbar-bg \#101010
+set statusbar-fg \#B0BCAF
+
+set recolor
+set recolor-darkcolor \#B0BCAF
+set recolor-lightcolor \#101010
+
+map <F1> scroll up
+map <F2> scroll down

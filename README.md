@@ -23,6 +23,7 @@ Mis archivos de configuracion. No tiene mas vuelta.
 * [mpv](https://mpv.io/)
 * [AwesomeWM](https://awesomewm.org/)
 * [dunst](https://dunst-project.org/)
+* [dmenu](https://tools.suckless.org/dmenu/)
 
 ### Programas miscelaneos:
 

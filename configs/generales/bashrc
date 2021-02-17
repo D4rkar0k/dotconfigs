@@ -1,0 +1,35 @@
+#
+# ~/.bashrc
+#
+
+# Variables de entorno.
+export EDITOR=nvim
+export MPD_HOST=127.0.0.1
+export MPD_PORT=6601
+export GROFF_TYPESETTER='pdf'
+
+# Estilo del Shell.
+export PS1="\[\033[38;5;9m\]@\[$(tput sgr0)\]\[\033[38;5;10m\]\u\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;11m\]\w\[$(tput sgr0)\] \\$ \[$(tput sgr0)\]"
+
+# Aliases
+alias osu='/home/d4rk/doc/Juegos/osu.AppImage'    
+    
+alias m=ncmpcpp    
+alias tarx="tar -xzvf"    
+alias yt=youtube-viewer    
+alias pdf=zathura    
+alias dic="sdcv -u drae"    
+alias v=nvim    
+alias vim=nvim    
+alias s=sudo
+alias pacman='sudo pacman' 
+alias ls='ls --color=auto'
+    
+alias pipes=pipes.sh    
+alias matrix=cmatrix    
+alias fetch=neofetch    
+alias doom=gzdoom
+    
+
+
+

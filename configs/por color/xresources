@@ -1,0 +1,31 @@
+! void colors
+URxvt.foreground:	#B0BCAF
+URxvt.background:	#101010
+
+*color0:		#101010
+*color8:		#202020
+
+*color1:		#994636
+*color9:		#D59386
+
+*color2:		#579170
+*color10:		#ABC2AB
+
+*color3:		#daaf58
+*color11:		#Edd7ab
+
+!*color4:		#083D77
+*color4:		#3a699c
+*color12:		#98b7d9
+
+*color5:		#9C528B
+*color13:		#C097B2
+
+*color6:		#3a929c
+*color14:		#97d1d8
+
+*color7:		#454545
+*color15:		#B0BCAF
+
+URxvt.font:		xft:terminus:pixelsize=14:antialias=true
+URxvt.scrollBar:	false
