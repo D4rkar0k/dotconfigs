@@ -4,9 +4,11 @@ Mis archivos de configuracion. No tiene mas vuelta.
 
 ## Demos de mis programas
 Dunst:
+
 ![dunstdemo](/demos/dunstdemo.gif)
 
 Programas del terminal:
+
 ![demo](/demos/demotodo.gif)
 
 ## Datos de mi PC:
