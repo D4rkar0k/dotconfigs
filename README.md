@@ -2,7 +2,7 @@
 
 Mis archivos de configuracion. No tiene mas vuelta.
 
-## Demos de mis programas
+## Demos de mis configs
 Dunst:
 
 ![dunstdemo](/demos/dunstdemo.gif)
