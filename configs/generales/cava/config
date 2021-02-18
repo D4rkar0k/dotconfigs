@@ -1,0 +1,32 @@
+# Cava config by D4rkar0k
+
+[general]
+mode = normal
+framerate = 60
+sensitivity = 100
+bars = 0 
+bar_width = 3
+bar_spacing = 1
+
+[input]
+method = pulse
+source = auto
+[output]
+
+[color]
+
+gradient = 1
+gradient_count = 8
+gradient_color_1 = '#ABC2AB'
+gradient_color_2 = '#ABC2AB'
+gradient_color_3 = '#ABC2AB'
+gradient_color_4 = '#EDD7AB'
+gradient_color_5 = '#EDD7AB'
+gradient_color_6 = '#D59386'
+gradient_color_7 = '#D59386'
+gradient_color_8 = '#D59386'
+
+[smoothing]
+integral = 50
+
+
