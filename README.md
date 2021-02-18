@@ -2,6 +2,10 @@
 
 Mis archivos de configuracion. No tiene mas vuelta.
 
+## Demos de mis programas
+Dunst:
+![dunstdemo](/demos/dunstdemo.gif)
+
 ## Datos de mi PC:
 * SO: Arch Linux
 * CPU: Ryzen 3 3200g
@@ -9,6 +13,7 @@ Mis archivos de configuracion. No tiene mas vuelta.
 * ROM: SSD Kingston 240gb, HDD Western Digital Blue 1TB
 * Mother: Asus Prime A320M
 * Monitor: Samsung SF350 24" 1080p
+* Fuente: Terminus 12
 
 ## Programas que uso:
 
@@ -33,6 +38,7 @@ Mis archivos de configuracion. No tiene mas vuelta.
 * [scrot](https://github.com/resurrecting-open-source-projects/scrot)
 * [groff](https://www.gnu.org/software/groff/)
 * [mpd](https://github.com/neovim/neovim)
+* [cli-visualizer](https://github.com/dpayne/cli-visualizer)
 
 ## Paletas de colores que me gustan:
 
